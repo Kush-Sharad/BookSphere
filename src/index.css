@@ -1,5 +1,5 @@
 body{
-  background-color: #713045;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
   color: #fff;
@@ -11,7 +11,7 @@ body{
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #c94e4e;
+  background-color: #9100f1;
   color: #fff;
 }
 
@@ -102,12 +102,13 @@ body{
 }
 
 .card {
+  width: 80%;
   padding: 10px;
   text-align: center;
-  border: 30px solid #713045;
+  border: 30px solid #ffffff;
   border-radius: 8px;
   margin: 5px; /* Add margin to create a gap between cards */
-  background-color: #430d27;
+  background-color: #9100f1;
   cursor: pointer;
 }
 
@@ -134,7 +135,7 @@ body{
 }
 
 .card button {
-  background-color: #c94e4e;
+  background-color: #f80202;
   color: white;
   font-size: large;
   padding: 10px 40px;
@@ -191,7 +192,7 @@ body, html {
   height: 100px;
   box-sizing: border-box;
   cursor: pointer;
-  background-color: #430d27;
+  background-color: #9100f1;
   color: #fff;
   text-align: center;
   border-radius: 2%;
@@ -254,8 +255,10 @@ body, html {
 }
 
 .bookcard {
+  background-color: #9100f1;
   width: 200px;
   height: 350px;
+  color: #fff;
   border: 1px solid #ccc;
   border-radius: 10px;
   overflow: hidden;
@@ -296,7 +299,7 @@ body, html {
   text-align: center;
   margin-top: 5px;
   text-decoration: none;
-  background-color: #3498db;
+  background-color:#f80202;
   color: #fff;
   border: none;
   margin-left: 10px;
@@ -312,7 +315,7 @@ body, html {
 }
 
 .footer {
-  background-color: #582233;
+  background-color: #9100f1;
   color: #fff;
   margin-top: 50px;
   padding: 20px 0;
@@ -367,7 +370,7 @@ body, html {
 }
 
 .popup button {
-  background-color: #3498db;
+  background-color: #9100f1;
   color: #fff;
   padding: 10px 20px;
   border: none;
